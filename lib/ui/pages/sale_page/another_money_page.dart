@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:mijozlar/ui/pages/refund_result_widget.dart';
+import 'package:mijozlar/ui/pages/history_page/refund_result_widget.dart';
 
 class AnotherMoneyPage extends StatelessWidget {
   const AnotherMoneyPage({super.key});
